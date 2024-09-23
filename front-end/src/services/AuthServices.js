@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = "https://password-reset-fsd.onrender.com/api/v1/auth";
+const BASE_URL = "https://password-reset-cdeq.onrender.com/api/v1/auth";
 
 
 export const signUp = async (payload) => {
